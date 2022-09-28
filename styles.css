@@ -4,7 +4,7 @@ body {
   justify-content: center;
   background-color: #3ce6b3;
   min-height: 50vh;
-  padding: 20px;
+  padding: 10px;
 }
 
 .container {
@@ -22,8 +22,7 @@ h1 {
 }
 
 input {
-  width: 300px;
-  min-width: 80px;
+  width: 90%;
   border-radius: 5px;
   border: 1px solid #0d7e5c;
   padding: 2px 10px;
